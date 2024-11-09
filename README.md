@@ -1,5 +1,9 @@
-# OO code using turtle graphics
-- From the starting code, polygon_art.py, you are to write an OO program that generates different pieces of art works
-- Fork, then, clone this repo
-- Read the instructions given in the course's Google Classroom and start coding
-- Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+# summary
+## this homework
+This code generates random polygon art using the turtle graphics module.
+It defines two main classes: Polygon and PolygonArt. The Polygon class allows you to create and 
+draw simple polygons (with a variable number of sides) and move them to different locations. 
+The PolygonArt class lets you generate different patterns of polygons based on user input,
+and it includes an option to create "embedded polygons" (smaller polygons inside larger ones) 
+through the EmbeddedPolygon class.
+
